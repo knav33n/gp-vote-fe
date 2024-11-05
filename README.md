@@ -19,12 +19,12 @@ This is a simple web application built with React.js and Vite. It allows users t
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/hiring-task-app.git
+git clone https://github.com/knav33n/gp-vote-fe
 ```
 
 2. Navigate to the project directory
 ```bash
-cd hiring-task-app
+cd gp-vote-fe
 ```
 
 3. Install dependencies
